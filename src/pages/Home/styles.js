@@ -1,9 +1,16 @@
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 
 export const Container = styled.div`
-  background:#7159c1;
+  height: 100%;
+  padding: 15px;
 
-  h1{
-    color:#fff;
+  ${props => css`
+    background: #000 url(${props.gif}) no-repeat center;
+    background-size: contain;
+  `}
+
+  h1 {
+    text-align: center;
+    color: orangered;
   }
 `;
