@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Inovação treinamentos",
+    "description": "Uma plataforma de cursos online",
+    "link": "",
+    "github": "https://github.com/Manfrinmm/inovacao-treiname"
+  },
+  {
+    "name": "DevFinances",
+    "description": "Um projeto realizado na maratona discover realizado pela Rocketseat",
+    "link": "https://devfinances.devmatheus.com/",
+    "github": "https://github.com/Manfrinmm/DevFinances"
+  },
+  {
+    "name": "Star Money",
+    "description": "Um projeto realizado no mega hack na 5 edição",
+    "link": "https://star-money.devmatheus.com/",
+    "github": "https://github.com/Manfrinmm/mega-hack-5.0"
+  }
+]
